@@ -8,7 +8,7 @@ Features:
 - Install modded APKs
 
 # How to use it:
-- Download the file [https://github.com/ByteUsVR/Byteus-Mod-Installer/releases/download/v1.0.0/Byteus_Mod_Installer.exe](here.)
+- Download the file [here.](https://github.com/ByteUsVR/Byteus-Mod-Installer/releases/download/v1.0.0/Byteus_Mod_Installer.exe)
 - Open the exe file
 - Connect your headset to your pc
 - Answer the questions

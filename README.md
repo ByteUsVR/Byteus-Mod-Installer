@@ -16,5 +16,5 @@ Features:
 It can't get any easier
 
 Join the discord server if you need help:
-https://discord.gg/Byteus
-https://youtube.com/@Byteus.
+- https://discord.gg/Byteus
+- https://youtube.com/@Byteus.

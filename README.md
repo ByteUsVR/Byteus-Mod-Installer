@@ -12,7 +12,7 @@ Features:
 - Download the file [here.](https://github.com/ByteUsVR/Byteus-Mod-Installer/releases/download/v1.0.0/Byteus_Mod_Installer.exe)
 - Open the exe file
 - Connect your headset to your pc
-- Answer question using y (yes) or no (n)
+- Answer question using y (yes) or n (no)
 
 It can't get any easier
 

@@ -8,10 +8,9 @@ Features:
 - Install modded APKs
 
 # How to use it:
-- Download these redists:
+- Download and install these redists:
 - [This for x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) 
 - [This for x86 (32 bit)](https://aka.ms/vs/17/release/vc_redist.x86.exe)
-- Download and install [Advanced Sidequest](https://sidequestvr.com/setup-howto)
 - Download the file [here.](https://github.com/ByteUsVR/Byteus-Mod-Installer/releases/download/v1.0.0/Byteus_Mod_Installer.exe)
 - Open the exe file
 - Connect your headset to your pc
